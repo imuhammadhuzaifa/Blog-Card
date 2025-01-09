@@ -1,0 +1,69 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to right, #79c9c3, #6797ef, #7474d6);
+}
+
+.container {
+    display: flex;
+}
+
+.card {
+    width: 300px;
+    height: 75vh;
+    margin: 70px 20px 40px 70px;
+    border-radius: 20px;
+    background-color: gainsboro;
+}
+
+img {
+    border-radius: 20px 20px 0 0;
+    height: 40%;
+}
+
+button {
+    margin: 10px 20px;
+    border-radius: 30px;
+    width: 90px;
+    height: 20px;
+    border: none;
+    color: white;
+    background: linear-gradient(to bottom, #1775e7, #3fa1f0, #33b3fe);
+}
+
+.btn2 {
+    background: linear-gradient(to bottom, #e7d917, #d7e459, #a09f3e);
+}
+
+.btn3 {
+    background: linear-gradient(to bottom, #e71717, #e43535, #7a2f2f);
+}
+
+h3, p {
+    padding: 5px 20px;
+}
+
+.user {
+    display: flex;
+    margin: 30px 20px -10px 10px;
+}
+
+.user-img {
+    width: 30px;
+    height: 30px;
+    border-radius: 40px;
+}
+ 
+h5 {
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+small {
+    margin-left: 50px;
+}
