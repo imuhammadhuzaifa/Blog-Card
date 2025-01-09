@@ -16,7 +16,7 @@ body {
 .card {
     width: 300px;
     height: 75vh;
-    margin: 70px 20px 40px 70px;
+    margin: 70px 20px 40px 80px;
     border-radius: 20px;
     background-color: gainsboro;
 }
