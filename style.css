@@ -9,21 +9,20 @@ body {
     background: linear-gradient(to right, #79c9c3, #6797ef, #7474d6);
 }
 
-.container {
-    display: flex;
-}
 
 .card {
-    width: 300px;
+    width: 24%;
     height: 75vh;
+    display: inline-block;
     margin: 70px 20px 40px 80px;
     border-radius: 20px;
     background-color: gainsboro;
 }
 
 img {
-    border-radius: 20px 20px 0 0;
+    width: 100%;
     height: 40%;
+    border-radius: 20px 20px 0 0;
 }
 
 button {
